@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj06152)](https://solved.ac/sj06152/)
+
+### Now Learning 🧐
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <!--
 **leessunj/leessunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
